@@ -37,7 +37,7 @@ Project Insight for Sales Performance Impact
 •	We can’t ignore benefits in business policy and product development for mass customer due to its high count
 •	We must increase high net worth customers for company long term growth due to high tenuity of high-net-worth customers
 •	Targeting male customer is better because its showing better trend on bike purchasing and CLV compared to other gender
-•	Targeting property valuation of mid-range that is 7,8,9, etc. can be beneficial
+•	Targeting property valuation of mid-range that is 7,8,9, etc. can be beneficial.
 
 <br>
 Author - Harshal
