@@ -1,11 +1,11 @@
 # KPMG Customer & Transaction Data Analysis Using Excel
 Project Overview:
-This project aims to analyze customer demographics, transactions, and new customer data to provide insights into business
+In this project i analyzed customer demographics, transactions, and new customer data to provide insights into business
 performance and customer behavior. The project consists of six tasks that involve data cleaning, data analysis, and visualization using
 Excel.
 
 Data Cleaning
-•	Remove any duplicate in unique column in four sheets of dataset
+•	Removed any duplicate in unique column in four sheets of dataset
 •	Ensure all columns contents in one and proper format by formatting state in short form and gender in long form and converting all numerical data from text to number format
 •	Clearing gaps, removing space by n/a
 
